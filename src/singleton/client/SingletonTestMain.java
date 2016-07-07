@@ -1,6 +1,8 @@
+package singleton.client;
+
 import singleton.*;
 
-public class Main {
+public class SingletonTestMain {
 
     public static void main(String[] args) {
 
