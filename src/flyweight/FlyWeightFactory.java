@@ -2,9 +2,6 @@ package flyweight;
 
 import java.util.HashMap;
 
-/**
- * Created by jimmy on 7/9/16.
- */
 public class FlyWeightFactory {
 
     private FlyWeightFactory(){}
